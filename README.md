@@ -1,6 +1,6 @@
 # Lets-get-started
 
-My first test GitHub repository
+My first test GitHub repository.
 
 I always arrive late at the office, but I make up for it by leaving early ;)
 
