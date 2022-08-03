@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/kamila-polovko-OneApp/Lets-get-started#readme",
   "dependencies": {
-    "cypress": "^10.4.0"
+    "cypress": "^10.4.0",
+    "lucky": "^1.1.0"
   }
 }
